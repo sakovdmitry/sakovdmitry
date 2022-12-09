@@ -1,5 +1,3 @@
-# Hi! I'm Dima, Python developer from Moscow, Russia :)
-
 [![codewars](https://www.codewars.com/users/sakovdmitry/badges/small)](https://www.codewars.com/users/sakovdmitry)
 ---
 ### Technologies I use
